@@ -1,0 +1,33 @@
+<?xml version   ="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "IPOSX"
+    version     = "1.0">
+
+
+    <name>IPOS</name>
+    
+    <content src="index.html"/>
+    <icon src="icon.png" width="128" height="128" />
+    
+    <description>IPOS
+    </description>
+    
+   
+
+    <!-- third party plugins -->
+
+    <!-- universal preferences -->
+	
+	<gap:plugin name="org.apache.cordova.inappbrowser" />
+	
+	
+    <preference name="phonegap-version"           value="3.5.0" />         
+    <preference name="target-device"              value="universal" />      <!-- all: possible values handset, tablet, or universal -->
+    <!--<preference name="fullscreen"                 value="true" /> -->          <!-- all: hides the status bar at the top of the screen -->
+  
+   <preference name="fullscreen" value="true" />
+   <preference name="android-windowSoftInputMode" value="stateVisible" />
+   	<preference name="orientation" value="portrait" />
+
+</widget>
