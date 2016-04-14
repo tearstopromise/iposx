@@ -1,11 +1,11 @@
 <?xml version   ="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
-    id          = "IPOSX"
+    id          = "IPOSX_test"
     version     = "1.0">
 
 
-    <name>IPOS</name>
+    <name>IPOS_test</name>
     
     <content src="index.html"/>
     <icon src="icon.png" width="128" height="128" />
