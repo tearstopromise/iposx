@@ -8,8 +8,8 @@
     <name>IPOS_test</name>
     
     <content src="index.html"/>
-    <icon src="icon.png" width="128" height="128" />
-    
+ 
+
     <description>IPOS
     </description>
     
