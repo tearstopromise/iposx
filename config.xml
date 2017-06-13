@@ -20,7 +20,7 @@
     <!-- universal preferences -->
 	
 
-	
+	<plugin name="cordova-plugin-inappbrowser" spec="~1.7.1" />
 	
    <preference name="phonegap-version" value="cli-6.4.0" />     
     <preference name="target-device"              value="universal" />      <!-- all: possible values handset, tablet, or universal -->
