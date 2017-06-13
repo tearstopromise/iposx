@@ -19,7 +19,7 @@
 
     <!-- universal preferences -->
 	
-	<gap:plugin name="cordova-plugin-inappbrowser" />
+
 	
 	
    <preference name="phonegap-version" value="cli-6.4.0" />     
